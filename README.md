@@ -1,4 +1,4 @@
-<p><img align="center" src="6.png" alt="qwest1204" /></p>
+<p align="center"><img  src="6.png" alt="qwest1204"></p>
 <h1 align="center">Hi 👋, I'm Daniil</h1>
 <h3 align="center">A python ML and backend developer</h3>
 
