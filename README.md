@@ -1,6 +1,6 @@
 <p align="center"><img  src="6.png" alt="qwest1204"></p>
 <h1 align="center">Hi 👋, I'm Daniil</h1>
-<h3 align="center">A python ML and backend developer</h3>
+<h3 align="center">MLOps, DL, data saentist</h3>
 
 - 🔭 I’m currently working on [SIRIUS-2024_AI](https://github.com/Sirius-2024-AI/)
 
