@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Daniil</h1>
 <h3 align="center">MLOps, DL, data saentist</h3>
 
-- 🔭 I’m currently working on [SIRIUS-2024_AI](https://github.com/Sirius-2024-AI/)
+- 🔭 I’m currently working on [AlphaFile](https://github.com/MrAlphaFile/)
 
-- 🌱 I’m currently learning **Deep Learning, YandexCatboost**
+- 🌱 I’m currently learning **Deep Learning, YandexCatboost, Pytorch, QML**
 
 - 👯 I’m looking to collaborate on [IsaacLab](https://github.com/isaac-sim/IsaacLab)
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ML, datasince**
 
-- 📫 How to reach me **workemailfordaniil@gmail.com**
+- 📫 How to reach me **128bit@128bit.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
